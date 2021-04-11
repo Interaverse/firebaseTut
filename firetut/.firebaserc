@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tutorial-project-897c5": {
+      "hosting": {
+        "firetut": [
+          "tutorial-project-897c5"
+        ]
+      }
+    }
+  }
+}
